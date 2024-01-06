@@ -1,5 +1,7 @@
 source "https://rubygems.org"
 
+gem "jekyll"
+
 # NOTE: Also update .ruby-version for Netlify.
 ruby "~> 3.1"
 
