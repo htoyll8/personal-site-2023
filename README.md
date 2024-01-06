@@ -1,6 +1,6 @@
-# henrik.nyh.se
+# tyler.holloway
 
-<https://henrik.nyh.se/>
+<https://tyler.holloway/>
 
 Built with [Middleman](https://middlemanapp.com/).
 
